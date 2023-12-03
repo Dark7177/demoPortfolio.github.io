@@ -1,0 +1,20 @@
+        <div class="introduction">
+            <h2>Hello there my self Dark!!!!</h2>
+            <p>Hello There!!!!......This side a aspiring web developer from the hills of Mighty Dhauladhar ranges
+                curently persuing Computer Science degree and looking forward for career in it . Currently aquiring
+                knowldege of technologies like C , Pyhton , Javascript and Full stack Web-Engineering tech like pug,
+                nodejs and Mongodb ,Etc. If you wish for a website then do let me know through my socials or you can
+                connect with me by following links .........</p>
+        </div>
+        <div class="basicInfo">
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur exercitationem deserunt vitae nam
+                saepe possimus dolore velit praesentium odio. Animi est eligendi enim minus. Fuga iste, omnis doloremque
+                neque earum facere error dolor, laborum nulla quidem consequuntur culpa? Placeat pariatur ducimus
+                consectetur facilis blanditiis, eaque nulla enim obcaecati amet velit deserunt! Itaque earum numquam
+                nulla nemo dignissimos debitis repellat tenetur beatae assumenda? Quidem, quis nesciunt? Recusandae
+                debitis aperiam, voluptas iure eaque natus, doloremque fugiat molestiae quis, harum tempore magnam!
+                Cupiditate quaerat voluptatem rerum maxime nulla atque aliquid et dolores, commodi odio in! Quidem,
+                fugiat. Totam, dolore animi aliquam beatae harum consequatur adipisci necessitatibus voluptatem pariatur
+                possimus reiciendis officia perferendis soluta illum quas ea, nisi repellendus eligendi quam cum fugit
+                nobis.</p>
+        </div>

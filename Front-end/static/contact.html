@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=yes">
+    <title>Contact Me</title>
+    <link rel="stylesheet" href="contactStyle.css">
+</head>
+
+<body>
+    <div class="container">
+        <header class="text">
+            <h2>Have Some Query?</h2> 
+            <div class="time_loc">
+                <p><i class="fa-solid fa-earth-asia"></i>India</p>
+                <p><span id="time"></span></p>
+            </div>
+            <div class="innerContainer">
+                <img src="./static-images/Email.jpeg" alt="Email">
+                <form method="post" action="/contact" id="formPost" name="formPost">
+                    <input type="text" name="fname" id="fname" placeholder="First Name" autofocus>
+                    <input type="text" name="lname" id="lname" placeholder="Last Name">
+                    <input type="email" name="email" id="email" placeholder="Enter your mail">
+                    <textarea name="ques" id="ques" cols="40" rows="7" placeholder="Your question here!!" method="post" form="formPost"></textarea>
+                    <button type="submit" >Send Message</button>
+                </form>
+                <div class="btn">
+                </div> 
+            </div>
+        </header>
+    </div>
+</body>
+<script src="contact.js"></script>
+<script src="https://kit.fontawesome.com/28f4e93996.js" crossorigin="anonymous"></script>
+</html>
